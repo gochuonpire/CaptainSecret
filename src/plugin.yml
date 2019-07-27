@@ -1,0 +1,10 @@
+name: CaptainSecret
+main: me.captain.secret.CaptainSecret
+author: captainawesome7
+version: 0.1
+api-version: 1.14
+softdepend: [CaptainLock]
+commands:
+  secret:
+    Description: Do secret stuff
+    Usage: /secret <stuff>
